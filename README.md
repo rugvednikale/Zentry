@@ -77,13 +77,6 @@ No server or backend is required, as it's a front-end-only project.
 
 Pull requests are welcome! Feel free to fork the repo and submit improvements or enhancements.
 
----
-
-## 📷 Screenshots
-
-> (You can add some screenshots or screen recordings of your website here)
-
----
 
 ## 📄 License
 
