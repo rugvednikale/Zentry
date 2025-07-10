@@ -17,7 +17,6 @@ The project was created for educational purposes and to demonstrate front-end de
 * ⚡ Smooth animations and transitions
 * 🧭 Navigation bar with hover effects
 * 🕹️ Interactive game cards or sections
-* 🌙 Light/Dark theme support (if implemented)
 * 🖼️ Hero section with engaging visuals
 
 ---
