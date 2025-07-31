@@ -1,6 +1,6 @@
 # 🎮 Gaming Website
 
-Live Demo 👉 [https://gamingwebsiteru.netlify.app/](https://gamingwebsiteru.netlify.app/)
+Live Demo 👉 [https://rugvedzentry.netlify.app/](https://rugvedzentry.netlify.app/)
 
 ## 📌 Project Overview
 
